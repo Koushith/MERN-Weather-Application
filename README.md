@@ -53,7 +53,9 @@ cd frontend
 npm start
 
 ```
+### Weather data is provided by OpenWeatherMap API -  https://openweathermap.org/
 
+#### Quick Loom Video instruction to run the application- https://www.loom.com/share/ea919f1d9a704f20b04d381744d67b85
 
 
 
